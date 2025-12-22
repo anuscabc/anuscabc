@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://thetinyhuman.github.io/sitemap.xml
+Sitemap: https://thetinyhuman.github.io/thetinyhuman/sitemap.xml
