@@ -11,7 +11,7 @@ footer = false
 name = "Ana Popovici"
 id = ""
 bio = "PhD candidate @ Vrije Universiteit Amsterdam"
-avatar = "img/avatar.webp"
+avatar = "/images/ana-cropped.png"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/anuscabc" },
     { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
