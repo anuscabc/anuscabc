@@ -16,19 +16,21 @@ trap "on_exit" EXIT
 root_dir="$(realpath "$(dirname "$0")")"
 echo "Current directory is: $root_dir"
 
+zola_version=v0.21.0  # Note: the current theme doesn't work in v0.22.0!
+
 # -- Detect platform/architecture
-zola_root_url=https://github.com/getzola/zola/releases/download/v0.22.1
+zola_root_url=https://github.com/getzola/zola/releases/download/$zola_version
 
 echo -n "Understanding what machine you're on.. "
 
 archive_name=''
 if [ "$(uname)" == Linux ]; then
-    archive_name=zola-v0.22.1-x86_64-unknown-linux-gnu.tar.gz
+    archive_name=zola-$zola_version-x86_64-unknown-linux-gnu.tar.gz
 else
     if [ "$(arch)" == arm64 ]; then
-        archive_name=zola-v0.22.1-aarch64-apple-darwin.tar.gz
+        archive_name=zola-$zola_version-aarch64-apple-darwin.tar.gz
     else
-        archive_name=zola-v0.22.1-x86_64-apple-darwin.tar.gz
+        archive_name=zola-$zola_version-x86_64-apple-darwin.tar.gz
     fi
 fi
 
