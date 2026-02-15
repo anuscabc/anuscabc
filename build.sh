@@ -22,6 +22,6 @@ else
 fi
 
 bash -c "sleep 1 && $open_cmd http://localhost:1111" &
-zola serve -p 1111
+"$install_dir/zola" serve -p 1111
 
 echo "All done! ✅"
