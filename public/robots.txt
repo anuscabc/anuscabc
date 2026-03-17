@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://anuscabc.github.io/anuscabc/sitemap.xml
