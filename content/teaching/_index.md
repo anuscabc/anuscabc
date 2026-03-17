@@ -10,7 +10,6 @@ title = "Teaching"
 subtitle = "Teaching Activities"
 +++
 
-Change check 
 
 - Graduate level (MSc Economics) courses:
     - Intermediate Microeconomics (2023 - ongoing)
