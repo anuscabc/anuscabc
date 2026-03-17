@@ -21,5 +21,3 @@ outdate_alert_days = 12
 outdate_alert_text_before = "This article was last updated "
 outdate_alert_text_after = " days ago and may be out of date."
 +++
-
-📝 [Writers' Hour Magazine](https://substack.com/home/post/p-167008565)
