@@ -1,6 +1,6 @@
 +++
-title = "My Rresearch"
-description = "My blog site."
+title = "Posts"
+description = "My writing"
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"
@@ -8,8 +8,8 @@ insert_anchor_links = "right"
 generate_feeds = true
 [extra]
 lang = "en"
-title = "These are my posts"
-subtitle = "Lorem ipsum qwjlehbfqljbh"
+title = "Sometimes I write"
+subtitle = ""
 date_format = "%b %-d, %Y"
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button
@@ -21,3 +21,5 @@ outdate_alert_days = 12
 outdate_alert_text_before = "This article was last updated "
 outdate_alert_text_after = " days ago and may be out of date."
 +++
+
+📝 [Writers' Hour Magazine](https://substack.com/home/post/p-167008565)
