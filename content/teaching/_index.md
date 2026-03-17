@@ -11,23 +11,23 @@ subtitle = "Teaching Activities"
 +++
 
 
-- Graduate level (MSc Economics) courses:
-    - Intermediate Microeconomics (2023 - ongoing)
-    - Advanced Microeconomics (2023 - ongoing)
+**Currently Teaching**
 
-- Graduate level (PhD and Research Masters Economics) course:
-    - Econometrics I (2022)
+- Advanced Microeconomics – MSc Economics (2023–ongoing)
+- Intermediate Microeconomics – MSc Economics (2023–ongoing)
+- Algorithmic Collusion Research Project – BSc Econometrics, VU (2025–ongoing)
 
-- Undergraduate Level (BSc Econometrics)
-    - Algorithmic Collusion Research Project – VU (2025-ongoing)
+**Past Courses**
 
-- Undergraduate Level (BSc Economics and Business)
-    - Microeconomics II – VU (2023)
-    - Industrial Organization – UvA (2021)
-    - Principles of Economics and Business – UvA (2019-2022)
-    - Research Project – UvA (2019-2022)
+- Microeconomics II – BSc Economics and Business, VU (2023)
+- Econometrics I – PhD & Research Masters (2022)
+- Industrial Organization – BSc Economics and Business, UvA (2021)
+- Principles of Economics and Business – BSc Economics and Business, UvA (2019–2022)
+- Research Project – BSc Economics and Business, UvA (2019–2022)
 
-- Supervision of both MSc and BSc Economics thesis.
+**Thesis Supervision**
+
+- MSc and BSc Economics
 
 # Teaching Materials
 
