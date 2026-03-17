@@ -42,6 +42,8 @@ anchors = "on"
 [extra]
 
 sections = [
+  { name = "research", path = "/research", is_external = false },
+  { name = "teaching", path = "/teaching", is_external = false },
   { name = "posts", path = "/posts", is_external = false },
   #{ name = "tags", path = "/tags", is_external = false },
   # { name = "github", path = "https://github.com/<your-username>", is_external = true },
