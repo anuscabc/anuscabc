@@ -13,10 +13,11 @@ root_dir="$(realpath "$(dirname "$0")")"
 install_dir="$root_dir/bin"
 "$install_dir/zola" build
 
-git add static public content 
+git add static public content
 
 commit_msg="Update website: $(date +%Y-%m-%d-%H-%m-%S)"
-git commit -m "$commit_msg" 
+git diff --cached --quiet || git commit -m "$commit_msg"
 
-remote_name="$(git remote -v | grep 'git@github.com:anuscabc/anuscabc.git' | awk '{print $1}' | uniq)"
-git push "$remote_name" main
+git push origin main
+
+echo "Done! Changes will be live at https://anapopovici.me in ~1 minute."
