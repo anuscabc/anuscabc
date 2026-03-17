@@ -10,7 +10,6 @@ title = "Teaching"
 subtitle = "Teaching Activities"
 +++
 
-# Teaching Activities
 
 - Graduate level (MSc Economics) courses:
     - Intermediate Microeconomics (2023 - ongoing)
@@ -32,5 +31,5 @@ subtitle = "Teaching Activities"
 
 # Teaching Materials
 
-- Algorithmic Collusion Assignment
-- Demand Estimation Assignment
+- [Algorithmic Collusion Assignment](https://github.com/anuscabc/algorithmic_collusion_python_practical)
+- [Demand Estimation Assignment](https://github.com/anuscabc/v2_assignment)
