@@ -7,7 +7,6 @@ insert_anchor_links = "none"
 [extra]
 lang = "en"
 title = "Research"
-subtitle = "Research Work"
 +++
 
 # Labor Effects of Innovation Tax Breaks (with Sabien Dobbelaere)

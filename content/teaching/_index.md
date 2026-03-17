@@ -7,7 +7,6 @@ insert_anchor_links = "none"
 [extra]
 lang = "en"
 title = "Teaching"
-subtitle = "Teaching Activities"
 +++
 
 
