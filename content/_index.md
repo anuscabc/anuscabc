@@ -29,6 +29,6 @@ I am third-year PhD candidate in the Economics department at Vrije Universiteit 
 
 My research rests at the intersection of labor economics and empirical industrial organization. I am interested in understanding the interplay between market demand forces and firm labor outcomes.
 
-I will be presenting the paper: *Labor Effects of Innovation Tax Breaks* (with Sabien Dobbelaere) at the following workshops and conference this spring/summer: [COPE](https://personneleconomics.eu/cope2026/), [PSE - Labor Workshop](https://www.parisschoolofeconomics.eu/en/news/call-for-papers-for-the-workshop-in-labour-economics/), [ESCoE](https://www.escoe.ac.uk/events/escoe-conference-on-economic-measurement-2026-call-for-papers-open/), and [EALE - 2026](https://www.ub.edu/eale2026/). 
+I will be presenting the paper: *Labor Effects of Innovation Tax Breaks* (with Sabien Dobbelaere) at the following workshops and conferences this spring/summer: [COPE](https://personneleconomics.eu/cope2026/), [PSE - Labor Workshop](https://www.parisschoolofeconomics.eu/en/news/call-for-papers-for-the-workshop-in-labour-economics/), [ESCoE](https://www.escoe.ac.uk/events/escoe-conference-on-economic-measurement-2026-call-for-papers-open/), and [EALE - 2026](https://www.ub.edu/eale2026/). 
 
 Check out the [research](/research) and [teaching](/teaching) pages for more details.
