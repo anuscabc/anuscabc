@@ -25,7 +25,7 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-I am third-year economics PhD candidate at the [Vrije Universiteit Amsterdam](https://vu.nl/nl/onderzoek/wetenschappers/ana-popovici) and [Tinbergen Institute](https://tinbergen.nl/person/1896/ana-popovici), under the supervision of [Prof. Dr. Sabien Dobbelaere](https://sites.google.com/view/sabiendobbelaere) and [Prof. Dr. Jose-Luis Moraga Gonzalez].  I hold an MPhil in Economics (cum laude) from the Tinbergen Institute  and a MSc in Economics (track: Organization & Markets) from the Univesity of Amsterdam.
+I am third-year economics PhD candidate at the [Vrije Universiteit Amsterdam](https://vu.nl/nl/onderzoek/wetenschappers/ana-popovici) and [Tinbergen Institute](https://tinbergen.nl/person/1896/ana-popovici), under the supervision of [Prof. Dr. Sabien Dobbelaere](https://sites.google.com/view/sabiendobbelaere) and [Prof. Dr. Jose-Luis Moraga Gonzalez](https://sites.google.com/view/joseluismoraga).  I hold an MPhil in Economics (cum laude) from the Tinbergen Institute  and a MSc in Economics (track: Organization & Markets) from the Univesity of Amsterdam.
 
 My research rests at the intersection of labor economics and empirical industrial organization. I am interested in understanding the interplay between market demand forces and firm labor outcomes.
 
