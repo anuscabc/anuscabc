@@ -27,7 +27,7 @@ date_format = "%b %-d, %Y"
 
 I am third-year economics PhD candidate at the [Vrije Universiteit Amsterdam](https://vu.nl/nl/onderzoek/wetenschappers/ana-popovici) and [Tinbergen Institute](https://tinbergen.nl/person/1896/ana-popovici), under the supervision of [Prof. Dr. Sabien Dobbelaere](https://sites.google.com/view/sabiendobbelaere) and [Prof. Dr. Jose-Luis Moraga Gonzalez](https://sites.google.com/view/joseluismoraga).  I hold an MPhil in Economics (cum laude) from the Tinbergen Institute  and a MSc in Economics (track: Organization & Markets) from the Univesity of Amsterdam.
 
-My research rests at the intersection of labor economics and empirical industrial organization. I am interested in understanding the interplay between market demand forces and firm labor outcomes.
+My research rests at the intersection of labor economics and empirical industrial organization. I am interested in understanding the interplay between technology and firm labor outcomes.
 
 I will be presenting the paper: *Labor Effects of Innovation Tax Breaks* (with Sabien Dobbelaere) at the following workshops and conferences this spring/summer: [COPE](https://personneleconomics.eu/cope2026/), [PSE - Labor Workshop](https://www.parisschoolofeconomics.eu/en/news/call-for-papers-for-the-workshop-in-labour-economics/), [ESCoE](https://www.escoe.ac.uk/events/escoe-conference-on-economic-measurement-2026-call-for-papers-open/), and [EALE - 2026](https://www.ub.edu/eale2026/). 
 
