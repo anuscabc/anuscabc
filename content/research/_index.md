@@ -22,6 +22,6 @@ This paper examines the existence of advertising spillovers in the automobile in
 
 # Work in progress
 
-Labor Effects of Innovation Tax Breaks (with Sabien Dobbelaere)
+Hiring and Workforce Composition at Innovative Firms (with Sabien Dobbelaere)
 
 Labor Force Composition and Competitivess (with Daniele Aglio and Sabien Dobbelaere)
