@@ -9,7 +9,8 @@ lang = "en"
 title = "Research"
 +++
 
-# Retained Earnings, Retained Workers: Rent-Sharing under Innovation Tax Breaks  (with Sabien Dobbelaere)
+# Rent Sharing under Innovation Tax Breaks  (with Sabien Dobbelaere)
+[working paper](https://www.dropbox.com/scl/fi/ppwetby1rzc9hyqglvh63/dobbelaere_popovici_rent_sharing_under_innovation_taxbreaks.pdf?rlkey=ueybk6lofirbyzf5zrgz7s6mg&st=zq240zl6&dl=0)
 
 We provide causal evidence that firms share retained earnings from innovation tax breaks with their incumbent workers. We exploit the Dutch Innovation Box policy — which cuts the effective corporate tax rate on qualifying innovation profits from 25% to 5%. Using matched employer-employee data covering the full Dutch workforce (2007–2023), together with a tailored k-nearest-neighbor matching procedure and a staggered difference-in-differences estimator, we compare incumbent workers at treated firms to observably similar incumbent workers at matched control firms. Incumbent workers at treated firms earn 4.3% higher annual base wages after treatment relative to matched controls, and this wage premium persists and grows over a ten-year post-treatment window. The effect is not confined to R&D personnel, indicating that firms share innovation rents broadly rather than only with the workers directly responsible for the innovation. Treated incumbents are also 2.2% less likely to separate from their employer in the long run, consistent with firms sharing rents strategically to retain workers who embody firm-specific knowledge accumulated during the innovation process. Our findings connect the literatures on corporate tax incidence, innovation policy evaluation, and rent-sharing, and show that innovation policy has first-order distributional consequences for the workers who make innovation possible.
 
