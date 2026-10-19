@@ -24,4 +24,4 @@ This paper examines the existence of advertising spillovers in the automobile in
 
 Hiring and Workforce Composition at Innovative Firms (with Sabien Dobbelaere)
 
-Labor Force Composition and Competitiveness (with Daniele Aglio and Sabien Dobbelaere)
+Workforce Composition and the Pass-Through from Innovation to Competitiveness (with Daniele Aglio and Sabien Dobbelaere)
